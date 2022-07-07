@@ -1,1 +1,1 @@
-# ride-sharing-app-sprinboot
+# Ride Sharing App SpringBoot
